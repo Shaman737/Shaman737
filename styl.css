@@ -6,18 +6,18 @@ body{
 	background-color:#3CB371;
 	color:white;
 	padding:10px;
-	font-size:150%;
+	font-size:130%;
 	text-align:center;
 }
 #lewy{
 	background-color:#FAEBD7;
-	width:60%;
+	width:55%;
 	height:450px;
 	float:left;
 }
 #prawy{
 	background-color:#FAEBD7;
-	width:60%;
+	width:45%;
 	height:450px;
 	float:right;
 }
